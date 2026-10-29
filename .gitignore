@@ -1,0 +1,26 @@
+node_modules/
+dist/
+artifacts/
+.claude/worktrees/
+.lanes/
+*.key
+*.pem
+.env
+.env.*
+__pycache__/
+
+# Owner-specific setup, credentials, and generated output.
+local/
+*.local.json
+*.local.env
+.webos/
+.ssh/
+credentials/
+secrets/
+*.p12
+*.pfx
+*.log
+logs/
+captures/
+screenshots/
+releases/

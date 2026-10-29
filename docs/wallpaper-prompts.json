@@ -1,0 +1,231 @@
+{
+  "status": "Complete collection:24 distinct generated hand-painted scenes.",
+  "generator": "OpenAI built-in image_gen tool",
+  "style": "hand-painted game environment art",
+  "processing": "JPEG format conversion only; quality 90, optimized progressive encoding. No crop, resize, recolor, or composition change. Original generated sources remain untouched.",
+  "assets": [
+    {
+      "id": "01-dolomites",
+      "title": "Alpine dawn",
+      "location": "Dolomites, Italy",
+      "prompt": "Transform this landscape into premium hand-painted game environment art. Preserve the wide 16:9 composition of alpine peaks, forest, mist and reflective lake, but replace photographic rendering with confident visible brushstrokes, artfully simplified shapes, beautiful painterly clouds, atmospheric depth, warm peach-gold dawn light and cool teal shadows. It should feel like a richly painted adventure-game world, mature and elegant, inviting and tranquil, with no characters. Keep natural landscape detail, a strong silhouette and an uncluttered lower quarter for a TV app dock. This is a full-screen background illustration, not a UI mockup. No text, no logos, no frame, no watermark, no collage. One distinct 16:9 landscape image.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen edit of generated draft",
+      "output": "app/wallpapers/01-dolomites.jpg"
+    },
+    {
+      "id": "02-fjord",
+      "title": "Fjord at blue hour",
+      "location": "Lofoten, Norway",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A vast northern fjord winding between steep emerald mountains, tiny warm-lit red fishing cabins far away, still cobalt water and lavender twilight clouds.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/02-fjord.jpg"
+    },
+    {
+      "id": "03-bamboo",
+      "title": "A path through green",
+      "location": "Kyoto, Japan",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A quiet winding stone path through a towering bamboo forest, misty depth, shafts of warm morning light, luminous jade foliage and mossy stones.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/03-bamboo.jpg"
+    },
+    {
+      "id": "04-iceland",
+      "title": "Atlantic hush",
+      "location": "South coast, Iceland",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: Dramatic sea stacks beyond a black volcanic sand beach, flowing white surf, distant cliffs, soft silver cloud light and a narrow rose horizon.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/04-iceland.jpg"
+    },
+    {
+      "id": "05-patagonia",
+      "title": "Beyond the lake",
+      "location": "Patagonia, Chile",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: Sculptural granite towers rising above a turquoise glacial lake, golden windswept grass in the foreground and layered violet mountain ranges under clearing storm clouds.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/05-patagonia.jpg"
+    },
+    {
+      "id": "06-alpine-meadow",
+      "title": "A summer above the clouds",
+      "location": "Swiss Alps, Switzerland",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: Rolling alpine meadows scattered with tiny wildflowers, a distant timber chalet, a gentle path leading toward high snowy peaks under enormous soft summer clouds.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/06-alpine-meadow.jpg"
+    },
+    {
+      "id": "07-namib",
+      "title": "The quiet dunes",
+      "location": "Namib Desert, Namibia",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: Elegant towering ochre and rose-red dunes, sculptural dark acacia silhouettes, cool blue-violet shadows and warm late-afternoon light, spacious desert layers.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/07-namib.jpg"
+    },
+    {
+      "id": "08-milford",
+      "title": "The hidden sound",
+      "location": "Fiordland, New Zealand",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A tranquil deep fjord between lush steep mountains, a slender waterfall cascading through emerald forest, low drifting mist and luminous silver morning light.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/08-milford.jpg"
+    },
+    {
+      "id": "09-amalfi",
+      "title": "Terraces above the sea",
+      "location": "Amalfi Coast, Italy",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A curving Mediterranean coastline with pastel hillside houses far away, terraced lemon groves, umbrella pines, cobalt sea and peach evening light, a peaceful travel vista.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/09-amalfi.jpg"
+    },
+    {
+      "id": "10-rockies",
+      "title": "Water like a jewel",
+      "location": "Canadian Rockies, Canada",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A luminous turquoise alpine lake cupped by a dramatic mountain valley and dark spruce forest, pale glaciers in the far distance, crisp soft morning light and floating painterly clouds.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/10-rockies.jpg"
+    },
+    {
+      "id": "11-sonoran",
+      "title": "Desert afterglow",
+      "location": "Sonoran Desert, Arizona",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: Tall saguaro cacti and small desert wildflowers on a quiet rocky ridge, distant mesas and layered purple mountains, a glowing amber-pink sunset with expressive brush-painted sky.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/11-sonoran.jpg"
+    },
+    {
+      "id": "12-skye",
+      "title": "The old green hills",
+      "location": "Isle of Skye, Scotland",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: Sweeping emerald ridgelines and sculptural rock formations, a winding narrow path, low silvery mist, distant sea and soft shafts of light after rain, ancient peaceful landscape.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/12-skye.jpg"
+    },
+    {
+      "id": "13-bali",
+      "title": "Terraces in the mist",
+      "location": "Bali, Indonesia",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: Graceful layered rice terraces curving around a lush tropical valley, palms and a tiny traditional pavilion far away, warm dawn mist and luminous jade and gold foliage.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/13-bali.jpg"
+    },
+    {
+      "id": "14-faroe",
+      "title": "Where the cliffs meet clouds",
+      "location": "Faroe Islands",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: Immense green sea cliffs stepping toward a slate-blue ocean, tiny turf-roof houses far away, soft low cloud and a glowing break in the sky, windswept grass in the quiet foreground.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/14-faroe.jpg"
+    },
+    {
+      "id": "15-cyclades",
+      "title": "Islands in the blue",
+      "location": "Cyclades, Greece",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A tranquil whitewashed hillside village with a small blue-domed church overlooking a sunlit turquoise cove, bougainvillea and olive foliage, distant islands under a pale apricot sky.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/15-cyclades.jpg"
+    },
+    {
+      "id": "16-oregon",
+      "title": "Pacific evening",
+      "location": "Oregon Coast, USA",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A rugged Pacific sea arch and dark evergreen headland beyond a broad reflective beach, soft rolling surf, blue-lavender evening mist and a delicate peach glow along the horizon.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/16-oregon.jpg"
+    },
+    {
+      "id": "17-fuji",
+      "title": "Petals on the lake",
+      "location": "Fuji Five Lakes, Japan",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A quiet lakeside view toward a distant elegant snow-capped volcano, graceful cherry blossom branches framing the upper edge, still water and pastel spring dawn, soft painterly clouds.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "output": "app/wallpapers/17-fuji.jpg"
+    },
+    {
+      "id": "18-atlas",
+      "title": "Terracotta mountain dusk",
+      "location": "Atlas Mountains, Morocco",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: The Atlas Mountains of Morocco at the last warm light of day, layered terracotta and ochre peaks, a distant traditional earth-colored hillside village, silver-green olive terraces and a winding dry valley, mauve haze between ridges. The dark foreground has quiet broad painterly shapes; all scenic detail belongs above it.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "source_sha256": "2d6f90291e9bcdd8602a43f86b016e80326a1bb9a79d2c791e3c09813eca3961",
+      "output": "app/wallpapers/18-atlas.jpg"
+    },
+    {
+      "id": "19-bled",
+      "title": "Island in the mist",
+      "location": "Lake Bled, Slovenia",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: Lake Bled in Slovenia at blue-and-gold morning light, a tiny island church reflected in still turquoise water, distant Julian Alps, a wooded cliff and soft bands of mist. Frame the scene with quiet deep-green foreground reeds and pine shadows, a luminous calm sky and a strong island silhouette.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "source_sha256": "f58c5bf8020b4168e617464cc37b282549010c92a4f59427a52e1efe51832ca8",
+      "output": "app/wallpapers/19-bled.jpg"
+    },
+    {
+      "id": "20-bhutan",
+      "title": "Valley of pines",
+      "location": "Paro Valley, Bhutan",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A peaceful Bhutanese pine valley in early autumn, layers of blue Himalayan foothills, a small traditional white-and-ochre dzong on a far hillside, golden field terraces and a narrow silver river winding through the valley. Soft amber morning light touches pine tops; the bottom quarter is tranquil deep forest shadow.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "source_sha256": "3b0516b99c61e328a7ba37e82a7bcacb96d08b15c5e32e4c50eecfe7c777a77a",
+      "output": "app/wallpapers/20-bhutan.jpg"
+    },
+    {
+      "id": "21-tuscany",
+      "title": "Golden rolling hills",
+      "location": "Val d'Orcia, Tuscany, Italy",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: The rolling hills of Tuscany at golden hour, sweeping soft green and ochre fields, a slender avenue of cypress trees curving toward a distant stone farmhouse on a ridge, lavender-blue hills fading into the luminous horizon. Broad painterly landforms, long olive shadows and a quiet dark grassy foreground, no people or vehicles.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "source_sha256": "1215b438d0943f8ac2ba991e46bd1e49e06ab0fcd13b49c64eac4e1d382b3831",
+      "output": "app/wallpapers/21-tuscany.jpg"
+    },
+    {
+      "id": "22-lapland",
+      "title": "Northern lights over pines",
+      "location": "Lapland, Finland",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: A pristine Lapland winter night under broad emerald and pale-violet aurora ribbons. A frozen quiet lake leads toward a snowy pine forest, soft starlight on distant rounded fells, blue snow and a small dark foreground bank. Paint the aurora as luminous flowing brushwork, with deep midnight-blue calm below. No buildings or people.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "source_sha256": "eb9918bf053ee093a7001a00e81f17cf9c53e40523a5276737948c546bec28ba",
+      "output": "app/wallpapers/22-lapland.jpg"
+    },
+    {
+      "id": "23-great-ocean-road",
+      "title": "Southern ocean light",
+      "location": "Great Ocean Road, Victoria, Australia",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: The dramatic limestone sea stacks of the Twelve Apostles along Australia's Great Ocean Road, a high coastal viewpoint with warm sandstone cliffs, vast turquoise and deep-blue Southern Ocean, sweeping white surf and peach late-afternoon clouds. Wind-shaped coastal grasses make a restrained darker foreground, with the sea-stack silhouettes in the upper two thirds.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "source_sha256": "effa9064e7dfe34df7c8363d1be3749bee6a0e8b962617bf52d80a4617f6e6d3",
+      "output": "app/wallpapers/23-great-ocean-road.jpg"
+    },
+    {
+      "id": "24-kauai",
+      "title": "Emerald coastal ridges",
+      "location": "Na Pali Coast, Kauai, Hawaii",
+      "prompt": "Premium hand-painted environment concept art for an exploration adventure game. Clearly a painting, not a photograph or 3D render: confident visible brushwork, artfully simplified forms, selective fine detail, luminous edges, atmospheric perspective and subtle digital gouache texture. Rich but controlled natural colors, elegant cinematic light, peaceful and inviting. One full-frame wide 16:9 landscape, 1920x1080 composition suitable for a 65-inch TV wallpaper. Put the scene's main silhouettes in the upper two thirds and quieter darker space in the bottom quarter for an app dock. No people, creatures, text, logos, UI, border, watermark or collage. Create exactly one distinct scene. Scene: The Na Pali Coast of Kauai after a passing warm rain, immense fluted emerald cliffs descending to a jade-blue ocean, a distant thin waterfall, soft golden light breaking between painterly clouds and luminous sea mist. View from a shaded tropical ridge, broad quiet dark foliage in the bottom quarter, no boats, people or buildings.",
+      "style": "hand-painted game environment art",
+      "method": "built-in image_gen generation",
+      "source_sha256": "9fe14d2b296d53dbf255e1d387bad8487de0fc79df04fd123e4fa890be8f383f",
+      "output": "app/wallpapers/24-kauai.jpg"
+    }
+  ]
+}

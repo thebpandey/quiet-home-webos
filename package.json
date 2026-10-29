@@ -1,0 +1,17 @@
+{
+  "name": "quiet-home",
+  "version": "0.2.10",
+  "private": true,
+  "license": "MIT",
+  "description": "A local app and HDMI launcher for webOS TV",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "check": "node scripts/check.cjs",
+    "preview": "node scripts/preview.cjs",
+    "package": "npm run check && node scripts/package.cjs",
+    "package:preview": "node scripts/check.cjs --preview && node scripts/package.cjs"
+  },
+  "devDependencies": {
+    "@webos-tools/cli": "3.2.6"
+  }
+}

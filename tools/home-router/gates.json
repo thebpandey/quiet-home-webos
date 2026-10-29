@@ -1,0 +1,13 @@
+{
+  "identity": "first-tv-65",
+  "ready": false,
+  "homeTest": false,
+  "settingsTest": false,
+  "exitTest": false,
+  "failureTest": false,
+  "resumeTest": false,
+  "bootApproved": false,
+  "bootInput": null,
+  "home": null,
+  "apps": []
+}

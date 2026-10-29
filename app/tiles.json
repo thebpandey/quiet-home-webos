@@ -1,0 +1,12 @@
+{
+  "title": "Home",
+  "tiles": [
+    { "label": "Stremio", "appId": "io.strem.tv", "kind": "app" },
+    { "label": "Netflix", "appId": "netflix", "kind": "app" },
+    { "label": "Prime Video", "appId": "amazon", "kind": "app" },
+    { "label": "HBO Max", "appId": "com.wbd.stream", "kind": "app" },
+    { "label": "YouTube", "appId": "youtube.leanback.v4", "kind": "app" },
+    { "label": "HDMI 2", "appId": "com.webos.app.hdmi2", "kind": "input" },
+    { "label": "Settings", "appId": "com.palm.app.settings", "kind": "app" }
+  ]
+}

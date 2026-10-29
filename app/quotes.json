@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "motivation-01",
+    "category": "Motivation",
+    "text": "Put one useful action between your plan and lunch."
+  },
+  {
+    "id": "motivation-02",
+    "category": "Motivation",
+    "text": "A clear next step gives a difficult morning direction."
+  },
+  {
+    "id": "motivation-03",
+    "category": "Motivation",
+    "text": "Start where your hands can reach, then widen the work."
+  },
+  {
+    "id": "motivation-04",
+    "category": "Motivation",
+    "text": "Give today's effort a place on your calendar."
+  },
+  {
+    "id": "motivation-05",
+    "category": "Motivation",
+    "text": "Bring your tools before you wait for confidence."
+  },
+  {
+    "id": "motivation-06",
+    "category": "Motivation",
+    "text": "Finish one small task to make room for another."
+  },
+  {
+    "id": "motivation-07",
+    "category": "Motivation",
+    "text": "Let a rough first attempt teach your second one."
+  },
+  {
+    "id": "motivation-08",
+    "category": "Motivation",
+    "text": "Choose a pace that still leaves energy for tomorrow."
+  },
+  {
+    "id": "motivation-09",
+    "category": "Motivation",
+    "text": "Your plan becomes clearer when it meets real work."
+  },
+  {
+    "id": "motivation-10",
+    "category": "Motivation",
+    "text": "Spend less time judging the start and more time starting."
+  },
+  {
+    "id": "motivation-11",
+    "category": "Motivation",
+    "text": "Prepare the desk for the person you want to become."
+  },
+  {
+    "id": "motivation-12",
+    "category": "Motivation",
+    "text": "A quiet hour of practice can move a stubborn problem."
+  },
+  {
+    "id": "motivation-13",
+    "category": "Motivation",
+    "text": "Keep the promise small enough to keep it today."
+  },
+  {
+    "id": "motivation-14",
+    "category": "Motivation",
+    "text": "When the route changes, carry your purpose with you."
+  },
+  {
+    "id": "motivation-15",
+    "category": "Motivation",
+    "text": "Make the next decision easier by preparing one thing now."
+  },
+  {
+    "id": "motivation-16",
+    "category": "Motivation",
+    "text": "Measure progress by what you can do with care."
+  },
+  {
+    "id": "motivation-17",
+    "category": "Motivation",
+    "text": "Give an unfinished goal a useful ten minutes."
+  },
+  {
+    "id": "motivation-18",
+    "category": "Motivation",
+    "text": "Set down the perfect version and build a working one."
+  },
+  {
+    "id": "motivation-19",
+    "category": "Motivation",
+    "text": "Return to the task with the lesson you just learned."
+  },
+  {
+    "id": "motivation-20",
+    "category": "Motivation",
+    "text": "A useful routine saves courage for the difficult parts."
+  },
+  {
+    "id": "motivation-21",
+    "category": "Motivation",
+    "text": "Do the part that belongs to this day."
+  },
+  {
+    "id": "motivation-22",
+    "category": "Motivation",
+    "text": "Make your first move simple enough to repeat."
+  },
+  {
+    "id": "motivation-23",
+    "category": "Motivation",
+    "text": "Treat a slow week as information, not a verdict."
+  },
+  {
+    "id": "motivation-24",
+    "category": "Motivation",
+    "text": "Let your effort answer one practical question today."
+  },
+  {
+    "id": "motivation-25",
+    "category": "Motivation",
+    "text": "Build a habit that welcomes you back after a gap."
+  },
+  {
+    "id": "motivation-26",
+    "category": "Motivation",
+    "text": "Before adding another goal, give one goal your attention."
+  },
+  {
+    "id": "motivation-27",
+    "category": "Motivation",
+    "text": "Choose one thing to improve before the day ends."
+  },
+  {
+    "id": "motivation-28",
+    "category": "Motivation",
+    "text": "Make your workspace ready for a fresh attempt."
+  },
+  {
+    "id": "motivation-29",
+    "category": "Motivation",
+    "text": "A written next step can steady a scattered afternoon."
+  },
+  {
+    "id": "motivation-30",
+    "category": "Motivation",
+    "text": "Leave yourself a clear place to begin tomorrow."
+  },
+  {
+    "id": "inspiration-01",
+    "category": "Inspiration",
+    "text": "A new question can open a familiar street."
+  },
+  {
+    "id": "inspiration-02",
+    "category": "Inspiration",
+    "text": "Look closely at what you usually walk past."
+  },
+  {
+    "id": "inspiration-03",
+    "category": "Inspiration",
+    "text": "Borrow wonder from a leaf without borrowing anyone's path."
+  },
+  {
+    "id": "inspiration-04",
+    "category": "Inspiration",
+    "text": "An ordinary room can hold an unexpected new idea."
+  },
+  {
+    "id": "inspiration-05",
+    "category": "Inspiration",
+    "text": "Let curiosity take a seat beside your careful plans."
+  },
+  {
+    "id": "inspiration-06",
+    "category": "Inspiration",
+    "text": "A different view may begin with moving your chair."
+  },
+  {
+    "id": "inspiration-07",
+    "category": "Inspiration",
+    "text": "Keep a place for ideas that arrive without an invitation."
+  },
+  {
+    "id": "inspiration-08",
+    "category": "Inspiration",
+    "text": "The shape of a cloud can interrupt a narrow thought."
+  },
+  {
+    "id": "inspiration-09",
+    "category": "Inspiration",
+    "text": "Try describing the problem in words a child would understand."
+  },
+  {
+    "id": "inspiration-10",
+    "category": "Inspiration",
+    "text": "Give an unlikely idea a page before you dismiss it."
+  },
+  {
+    "id": "inspiration-11",
+    "category": "Inspiration",
+    "text": "Your interests can meet in ways you have not tried."
+  },
+  {
+    "id": "inspiration-12",
+    "category": "Inspiration",
+    "text": "Notice which questions make you forget to check the time."
+  },
+  {
+    "id": "inspiration-13",
+    "category": "Inspiration",
+    "text": "A sketch can find what a long explanation missed."
+  },
+  {
+    "id": "inspiration-14",
+    "category": "Inspiration",
+    "text": "Let the day's small surprises change one assumption."
+  },
+  {
+    "id": "inspiration-15",
+    "category": "Inspiration",
+    "text": "There are stories in the tools people use with care."
+  },
+  {
+    "id": "inspiration-16",
+    "category": "Inspiration",
+    "text": "Ask what else a familiar object could help you learn."
+  },
+  {
+    "id": "inspiration-17",
+    "category": "Inspiration",
+    "text": "A conversation can place a window in a closed plan."
+  },
+  {
+    "id": "inspiration-18",
+    "category": "Inspiration",
+    "text": "Follow a useful question beyond your first quick answer."
+  },
+  {
+    "id": "inspiration-19",
+    "category": "Inspiration",
+    "text": "Make room for a possibility before you demand proof of success."
+  },
+  {
+    "id": "inspiration-20",
+    "category": "Inspiration",
+    "text": "The world offers details faster than we learn to notice."
+  },
+  {
+    "id": "inspiration-21",
+    "category": "Inspiration",
+    "text": "An old skill may find a welcome in a new setting."
+  },
+  {
+    "id": "inspiration-22",
+    "category": "Inspiration",
+    "text": "Carry a notebook for the thoughts that travel lightly."
+  },
+  {
+    "id": "inspiration-23",
+    "category": "Inspiration",
+    "text": "A fresh beginning can use materials you already have."
+  },
+  {
+    "id": "inspiration-24",
+    "category": "Inspiration",
+    "text": "Listen for the idea hidden inside an awkward explanation."
+  },
+  {
+    "id": "inspiration-25",
+    "category": "Inspiration",
+    "text": "Let someone else's enthusiasm introduce you to something new."
+  },
+  {
+    "id": "inspiration-26",
+    "category": "Inspiration",
+    "text": "There is room in a careful life for playful experiments."
+  },
+  {
+    "id": "inspiration-27",
+    "category": "Inspiration",
+    "text": "A simple drawing can invite a complicated thought outside."
+  },
+  {
+    "id": "inspiration-28",
+    "category": "Inspiration",
+    "text": "Look for a new use before you call something finished."
+  },
+  {
+    "id": "inspiration-29",
+    "category": "Inspiration",
+    "text": "Your next interest may be waiting in an ordinary question."
+  },
+  {
+    "id": "inspiration-30",
+    "category": "Inspiration",
+    "text": "Leave a little space in the plan for discovery."
+  },
+  {
+    "id": "leadership-01",
+    "category": "Leadership",
+    "text": "Make the purpose clear before you divide the work."
+  },
+  {
+    "id": "leadership-02",
+    "category": "Leadership",
+    "text": "A team needs honest updates more than confident guesses."
+  },
+  {
+    "id": "leadership-03",
+    "category": "Leadership",
+    "text": "Ask who will carry the cost of your decision."
+  },
+  {
+    "id": "leadership-04",
+    "category": "Leadership",
+    "text": "Give quiet people enough time to finish their thoughts."
+  },
+  {
+    "id": "leadership-05",
+    "category": "Leadership",
+    "text": "Explain a change before you ask others to absorb it."
+  },
+  {
+    "id": "leadership-06",
+    "category": "Leadership",
+    "text": "Share credit with the people whose work made yours possible."
+  },
+  {
+    "id": "leadership-07",
+    "category": "Leadership",
+    "text": "A useful meeting leaves people knowing what happens next."
+  },
+  {
+    "id": "leadership-08",
+    "category": "Leadership",
+    "text": "Protect time for the work your team says matters."
+  },
+  {
+    "id": "leadership-09",
+    "category": "Leadership",
+    "text": "When you make a mistake, make the correction visible."
+  },
+  {
+    "id": "leadership-10",
+    "category": "Leadership",
+    "text": "Invite questions before silence becomes an expensive misunderstanding."
+  },
+  {
+    "id": "leadership-11",
+    "category": "Leadership",
+    "text": "Keep your standards clear and your tone respectful."
+  },
+  {
+    "id": "leadership-12",
+    "category": "Leadership",
+    "text": "A fair process should still feel fair when you lose."
+  },
+  {
+    "id": "leadership-13",
+    "category": "Leadership",
+    "text": "Learn the names of the people behind the results."
+  },
+  {
+    "id": "leadership-14",
+    "category": "Leadership",
+    "text": "Do not make urgency an excuse to stop listening."
+  },
+  {
+    "id": "leadership-15",
+    "category": "Leadership",
+    "text": "Give feedback that points to a change someone can make."
+  },
+  {
+    "id": "leadership-16",
+    "category": "Leadership",
+    "text": "Notice when a reliable person needs help carrying the load."
+  },
+  {
+    "id": "leadership-17",
+    "category": "Leadership",
+    "text": "Let evidence improve the plan, even when you wrote it."
+  },
+  {
+    "id": "leadership-18",
+    "category": "Leadership",
+    "text": "Make it safe to bring you an inconvenient fact."
+  },
+  {
+    "id": "leadership-19",
+    "category": "Leadership",
+    "text": "Your example reaches places your instructions never visit."
+  },
+  {
+    "id": "leadership-20",
+    "category": "Leadership",
+    "text": "A strong team can question its leader without fear."
+  },
+  {
+    "id": "leadership-21",
+    "category": "Leadership",
+    "text": "Ask what support is missing before you judge the pace."
+  },
+  {
+    "id": "leadership-22",
+    "category": "Leadership",
+    "text": "Keep decisions close to the people who understand the work."
+  },
+  {
+    "id": "leadership-23",
+    "category": "Leadership",
+    "text": "An apology becomes useful when the next action changes."
+  },
+  {
+    "id": "leadership-24",
+    "category": "Leadership",
+    "text": "Clear boundaries help people work without constant guessing."
+  },
+  {
+    "id": "leadership-25",
+    "category": "Leadership",
+    "text": "Leave enough room for another person's good method."
+  },
+  {
+    "id": "leadership-26",
+    "category": "Leadership",
+    "text": "Check that everyone understands the promise you just made."
+  },
+  {
+    "id": "leadership-27",
+    "category": "Leadership",
+    "text": "Teach the reason behind a rule when you can."
+  },
+  {
+    "id": "leadership-28",
+    "category": "Leadership",
+    "text": "A thoughtful handover is part of finishing the job."
+  },
+  {
+    "id": "leadership-29",
+    "category": "Leadership",
+    "text": "Be available for questions without taking over every answer."
+  },
+  {
+    "id": "leadership-30",
+    "category": "Leadership",
+    "text": "Help the team leave a difficult day with clarity."
+  },
+  {
+    "id": "strength-01",
+    "category": "Strength",
+    "text": "Rest can be a careful decision made with courage."
+  },
+  {
+    "id": "strength-02",
+    "category": "Strength",
+    "text": "You can ask for help and still guide your life."
+  },
+  {
+    "id": "strength-03",
+    "category": "Strength",
+    "text": "Some days strength is choosing a smaller, safer load."
+  },
+  {
+    "id": "strength-04",
+    "category": "Strength",
+    "text": "Your worth does not shrink when your energy does."
+  },
+  {
+    "id": "strength-05",
+    "category": "Strength",
+    "text": "A firm boundary can protect a gentle way of living."
+  },
+  {
+    "id": "strength-06",
+    "category": "Strength",
+    "text": "Let your limits speak before exhaustion has to shout."
+  },
+  {
+    "id": "strength-07",
+    "category": "Strength",
+    "text": "Courage can arrive in a quiet request for support."
+  },
+  {
+    "id": "strength-08",
+    "category": "Strength",
+    "text": "Take the pause that helps you return with care."
+  },
+  {
+    "id": "strength-09",
+    "category": "Strength",
+    "text": "You do not owe every challenge an immediate answer."
+  },
+  {
+    "id": "strength-10",
+    "category": "Strength",
+    "text": "There is strength in refusing a needless fight."
+  },
+  {
+    "id": "strength-11",
+    "category": "Strength",
+    "text": "A difficult feeling can be present without steering every choice."
+  },
+  {
+    "id": "strength-12",
+    "category": "Strength",
+    "text": "Adjusting your plans can be an act of good judgment."
+  },
+  {
+    "id": "strength-13",
+    "category": "Strength",
+    "text": "You may be tired and still deserve respect."
+  },
+  {
+    "id": "strength-14",
+    "category": "Strength",
+    "text": "Build support before the next hard season arrives."
+  },
+  {
+    "id": "strength-15",
+    "category": "Strength",
+    "text": "A steady voice can hold a boundary without raising it."
+  },
+  {
+    "id": "strength-16",
+    "category": "Strength",
+    "text": "Give yourself credit for the effort no one could see."
+  },
+  {
+    "id": "strength-17",
+    "category": "Strength",
+    "text": "You can leave a harmful place without winning an argument."
+  },
+  {
+    "id": "strength-18",
+    "category": "Strength",
+    "text": "Let recovery have a place beside your responsibilities."
+  },
+  {
+    "id": "strength-19",
+    "category": "Strength",
+    "text": "Some burdens need more hands, not a harder grip."
+  },
+  {
+    "id": "strength-20",
+    "category": "Strength",
+    "text": "You can be honest about fear and still take care."
+  },
+  {
+    "id": "strength-21",
+    "category": "Strength",
+    "text": "A slower pace may be the one that carries you safely."
+  },
+  {
+    "id": "strength-22",
+    "category": "Strength",
+    "text": "Keep something gentle in the way you speak to yourself."
+  },
+  {
+    "id": "strength-23",
+    "category": "Strength",
+    "text": "Strength leaves room for both resolve and uncertainty."
+  },
+  {
+    "id": "strength-24",
+    "category": "Strength",
+    "text": "Your needs are facts worth including in the plan."
+  },
+  {
+    "id": "strength-25",
+    "category": "Strength",
+    "text": "Ask for a chair before standing becomes a test."
+  },
+  {
+    "id": "strength-26",
+    "category": "Strength",
+    "text": "You are allowed to change a promise that causes harm."
+  },
+  {
+    "id": "strength-27",
+    "category": "Strength",
+    "text": "A hard day does not cancel your place among others."
+  },
+  {
+    "id": "strength-28",
+    "category": "Strength",
+    "text": "Choose support that lets you remain fully yourself."
+  },
+  {
+    "id": "strength-29",
+    "category": "Strength",
+    "text": "Let patience share the work that force cannot finish."
+  },
+  {
+    "id": "strength-30",
+    "category": "Strength",
+    "text": "You can begin again without pretending the day was easy."
+  },
+  {
+    "id": "love-01",
+    "category": "Love",
+    "text": "Love notices the cup left within easy reach."
+  },
+  {
+    "id": "love-02",
+    "category": "Love",
+    "text": "Ask about the small detail they mentioned yesterday."
+  },
+  {
+    "id": "love-03",
+    "category": "Love",
+    "text": "A caring answer can begin with putting down your phone."
+  },
+  {
+    "id": "love-04",
+    "category": "Love",
+    "text": "Let affection make room for another person's honest no."
+  },
+  {
+    "id": "love-05",
+    "category": "Love",
+    "text": "Share the ordinary chores that keep a home welcoming."
+  },
+  {
+    "id": "love-06",
+    "category": "Love",
+    "text": "Being close does not require knowing every private thought."
+  },
+  {
+    "id": "love-07",
+    "category": "Love",
+    "text": "Learn how the people you love prefer to receive care."
+  },
+  {
+    "id": "love-08",
+    "category": "Love",
+    "text": "Leave space for someone to finish a difficult sentence."
+  },
+  {
+    "id": "love-09",
+    "category": "Love",
+    "text": "A thoughtful message can soften a long journey home."
+  },
+  {
+    "id": "love-10",
+    "category": "Love",
+    "text": "Love can ask a question without demanding a confession."
+  },
+  {
+    "id": "love-11",
+    "category": "Love",
+    "text": "Make room at the table for a changed opinion."
+  },
+  {
+    "id": "love-12",
+    "category": "Love",
+    "text": "Keep kindness in the conversation when you disagree."
+  },
+  {
+    "id": "love-13",
+    "category": "Love",
+    "text": "Care is easier to trust when it respects a boundary."
+  },
+  {
+    "id": "love-14",
+    "category": "Love",
+    "text": "Remember the little things that help someone feel at ease."
+  },
+  {
+    "id": "love-15",
+    "category": "Love",
+    "text": "An unhurried goodbye can be a small gift of attention."
+  },
+  {
+    "id": "love-16",
+    "category": "Love",
+    "text": "Let someone enjoy their good news before offering advice."
+  },
+  {
+    "id": "love-17",
+    "category": "Love",
+    "text": "A shared laugh can make an ordinary kitchen feel warmer."
+  },
+  {
+    "id": "love-18",
+    "category": "Love",
+    "text": "Love does not need an audience to do useful work."
+  },
+  {
+    "id": "love-19",
+    "category": "Love",
+    "text": "Offer company without making silence feel like a failure."
+  },
+  {
+    "id": "love-20",
+    "category": "Love",
+    "text": "A gentle correction can carry more care than easy agreement."
+  },
+  {
+    "id": "love-21",
+    "category": "Love",
+    "text": "Make a place where someone can arrive without performing."
+  },
+  {
+    "id": "love-22",
+    "category": "Love",
+    "text": "Choose words that leave dignity on both sides."
+  },
+  {
+    "id": "love-23",
+    "category": "Love",
+    "text": "Care can mean asking before you step in to help."
+  },
+  {
+    "id": "love-24",
+    "category": "Love",
+    "text": "Give the people you love room to keep growing."
+  },
+  {
+    "id": "love-25",
+    "category": "Love",
+    "text": "A welcome matters most when no celebration is planned."
+  },
+  {
+    "id": "love-26",
+    "category": "Love",
+    "text": "Listen for what brings them comfort, not only what brings you praise."
+  },
+  {
+    "id": "love-27",
+    "category": "Love",
+    "text": "Let gratitude be part of the way you speak at home."
+  },
+  {
+    "id": "love-28",
+    "category": "Love",
+    "text": "Small acts of care deserve attention, even on busy days."
+  },
+  {
+    "id": "love-29",
+    "category": "Love",
+    "text": "Love can hold a door without choosing the destination."
+  },
+  {
+    "id": "love-30",
+    "category": "Love",
+    "text": "Treat a familiar face with the attention of a new meeting."
+  },
+  {
+    "id": "healing-01",
+    "category": "Healing",
+    "text": "A painful memory does not need to explain your whole life."
+  },
+  {
+    "id": "healing-02",
+    "category": "Healing",
+    "text": "You can miss someone and still make plans for today."
+  },
+  {
+    "id": "healing-03",
+    "category": "Healing",
+    "text": "Give a difficult feeling words without turning it into a fault."
+  },
+  {
+    "id": "healing-04",
+    "category": "Healing",
+    "text": "There is no need to perform being fine for everyone."
+  },
+  {
+    "id": "healing-05",
+    "category": "Healing",
+    "text": "A kind conversation may make this hour feel less lonely."
+  },
+  {
+    "id": "healing-06",
+    "category": "Healing",
+    "text": "Let a quiet day be enough without measuring its usefulness."
+  },
+  {
+    "id": "healing-07",
+    "category": "Healing",
+    "text": "You can keep what mattered and release what hurt."
+  },
+  {
+    "id": "healing-08",
+    "category": "Healing",
+    "text": "Ask for company when the room feels too empty."
+  },
+  {
+    "id": "healing-09",
+    "category": "Healing",
+    "text": "An unexpected sad moment does not erase a lighter one."
+  },
+  {
+    "id": "healing-10",
+    "category": "Healing",
+    "text": "Leave room in your story for feelings that change."
+  },
+  {
+    "id": "healing-11",
+    "category": "Healing",
+    "text": "You do not have to explain your grief on demand."
+  },
+  {
+    "id": "healing-12",
+    "category": "Healing",
+    "text": "A familiar song can hold a memory without holding you still."
+  },
+  {
+    "id": "healing-13",
+    "category": "Healing",
+    "text": "Make space for comfort that does not ask for an answer."
+  },
+  {
+    "id": "healing-14",
+    "category": "Healing",
+    "text": "You can choose distance from someone you still care about."
+  },
+  {
+    "id": "healing-15",
+    "category": "Healing",
+    "text": "A gentle routine can give an uncertain day a little shape."
+  },
+  {
+    "id": "healing-16",
+    "category": "Healing",
+    "text": "Tell a trusted person what kind of support would help."
+  },
+  {
+    "id": "healing-17",
+    "category": "Healing",
+    "text": "You may remember the good without excusing the harm."
+  },
+  {
+    "id": "healing-18",
+    "category": "Healing",
+    "text": "Let a new joy arrive without asking it to replace the past."
+  },
+  {
+    "id": "healing-19",
+    "category": "Healing",
+    "text": "A difficult anniversary can deserve a simpler schedule."
+  },
+  {
+    "id": "healing-20",
+    "category": "Healing",
+    "text": "You can decline advice and still welcome a kind presence."
+  },
+  {
+    "id": "healing-21",
+    "category": "Healing",
+    "text": "Treat your changing feelings as visitors, not broken rules."
+  },
+  {
+    "id": "healing-22",
+    "category": "Healing",
+    "text": "There is room for laughter inside a tender season."
+  },
+  {
+    "id": "healing-23",
+    "category": "Healing",
+    "text": "A private sadness does not make your company less welcome."
+  },
+  {
+    "id": "healing-24",
+    "category": "Healing",
+    "text": "Let the words come slowly when the subject matters deeply."
+  },
+  {
+    "id": "healing-25",
+    "category": "Healing",
+    "text": "You can set a memory down and return to it later."
+  },
+  {
+    "id": "healing-26",
+    "category": "Healing",
+    "text": "Choose a small comfort without asking whether you earned it."
+  },
+  {
+    "id": "healing-27",
+    "category": "Healing",
+    "text": "Some conversations can wait until you feel ready to speak."
+  },
+  {
+    "id": "healing-28",
+    "category": "Healing",
+    "text": "Your story belongs to you, including the parts kept private."
+  },
+  {
+    "id": "healing-29",
+    "category": "Healing",
+    "text": "Let trusted people know when listening would help more than advice."
+  },
+  {
+    "id": "healing-30",
+    "category": "Healing",
+    "text": "Make room for the person you are becoming after a loss."
+  },
+  {
+    "id": "meditation-01",
+    "category": "Meditation",
+    "text": "Let one ordinary sound arrive without naming its source."
+  },
+  {
+    "id": "meditation-02",
+    "category": "Meditation",
+    "text": "Notice the place where your feet meet the floor."
+  },
+  {
+    "id": "meditation-03",
+    "category": "Meditation",
+    "text": "A quiet moment does not need a special setting."
+  },
+  {
+    "id": "meditation-04",
+    "category": "Meditation",
+    "text": "Let a passing thought pass without giving it a task."
+  },
+  {
+    "id": "meditation-05",
+    "category": "Meditation",
+    "text": "Watch the light on the wall change at its own pace."
+  },
+  {
+    "id": "meditation-06",
+    "category": "Meditation",
+    "text": "Give the next minute fewer instructions than the last."
+  },
+  {
+    "id": "meditation-07",
+    "category": "Meditation",
+    "text": "You can notice a feeling without solving it immediately."
+  },
+  {
+    "id": "meditation-08",
+    "category": "Meditation",
+    "text": "Let your hands rest without asking them to be useful."
+  },
+  {
+    "id": "meditation-09",
+    "category": "Meditation",
+    "text": "Listen to the room before you add another sound."
+  },
+  {
+    "id": "meditation-10",
+    "category": "Meditation",
+    "text": "An open window can remind you to notice the air."
+  },
+  {
+    "id": "meditation-11",
+    "category": "Meditation",
+    "text": "For a moment, let seeing be enough without judging."
+  },
+  {
+    "id": "meditation-12",
+    "category": "Meditation",
+    "text": "Notice a small detail before reaching for a large explanation."
+  },
+  {
+    "id": "meditation-13",
+    "category": "Meditation",
+    "text": "You can return your attention without scolding its wandering."
+  },
+  {
+    "id": "meditation-14",
+    "category": "Meditation",
+    "text": "Allow a little silence between hearing and replying."
+  },
+  {
+    "id": "meditation-15",
+    "category": "Meditation",
+    "text": "The chair can hold your weight while you leave plans aside."
+  },
+  {
+    "id": "meditation-16",
+    "category": "Meditation",
+    "text": "Watch a shadow move without asking it to hurry."
+  },
+  {
+    "id": "meditation-17",
+    "category": "Meditation",
+    "text": "Let the next sip be something you actually notice."
+  },
+  {
+    "id": "meditation-18",
+    "category": "Meditation",
+    "text": "A pause can belong to you even in a busy house."
+  },
+  {
+    "id": "meditation-19",
+    "category": "Meditation",
+    "text": "Notice how much of this moment needs no correction."
+  },
+  {
+    "id": "meditation-20",
+    "category": "Meditation",
+    "text": "Give a familiar sound your full attention for a while."
+  },
+  {
+    "id": "meditation-21",
+    "category": "Meditation",
+    "text": "You do not need to turn every quiet moment into progress."
+  },
+  {
+    "id": "meditation-22",
+    "category": "Meditation",
+    "text": "Let your gaze rest where the light feels gentle."
+  },
+  {
+    "id": "meditation-23",
+    "category": "Meditation",
+    "text": "A wandering mind can be met with a patient return."
+  },
+  {
+    "id": "meditation-24",
+    "category": "Meditation",
+    "text": "Leave the unfinished list outside this one small pause."
+  },
+  {
+    "id": "meditation-25",
+    "category": "Meditation",
+    "text": "Notice a color without searching for a better one."
+  },
+  {
+    "id": "meditation-26",
+    "category": "Meditation",
+    "text": "Let the room be ordinary and your attention be present."
+  },
+  {
+    "id": "meditation-27",
+    "category": "Meditation",
+    "text": "One moment of noticing is still a moment worth having."
+  },
+  {
+    "id": "meditation-28",
+    "category": "Meditation",
+    "text": "Hear the silence after a sound has left the room."
+  },
+  {
+    "id": "meditation-29",
+    "category": "Meditation",
+    "text": "You can sit beside uncertainty without making it speak."
+  },
+  {
+    "id": "meditation-30",
+    "category": "Meditation",
+    "text": "Let this pause end gently when you are ready."
+  },
+  {
+    "id": "integrity-01",
+    "category": "Integrity",
+    "text": "Tell the part of the truth that changes the decision."
+  },
+  {
+    "id": "integrity-02",
+    "category": "Integrity",
+    "text": "Keep the same care when no one is checking."
+  },
+  {
+    "id": "integrity-03",
+    "category": "Integrity",
+    "text": "A useful excuse is still worth examining for honesty."
+  },
+  {
+    "id": "integrity-04",
+    "category": "Integrity",
+    "text": "Correct the record when an error happens to favor you."
+  },
+  {
+    "id": "integrity-05",
+    "category": "Integrity",
+    "text": "Make promises with room for the work they require."
+  },
+  {
+    "id": "integrity-06",
+    "category": "Integrity",
+    "text": "Let your private choices support your public words."
+  },
+  {
+    "id": "integrity-07",
+    "category": "Integrity",
+    "text": "Ask whether the rule is fair before using it against someone."
+  },
+  {
+    "id": "integrity-08",
+    "category": "Integrity",
+    "text": "Return what was entrusted to you with equal care."
+  },
+  {
+    "id": "integrity-09",
+    "category": "Integrity",
+    "text": "A clear admission can prevent a long chain of explanations."
+  },
+  {
+    "id": "integrity-10",
+    "category": "Integrity",
+    "text": "Do not borrow certainty from a fact you have not checked."
+  },
+  {
+    "id": "integrity-11",
+    "category": "Integrity",
+    "text": "Give people the information they need to choose freely."
+  },
+  {
+    "id": "integrity-12",
+    "category": "Integrity",
+    "text": "A small unfair advantage is still worth refusing."
+  },
+  {
+    "id": "integrity-13",
+    "category": "Integrity",
+    "text": "Own your decision without handing its cost to someone else."
+  },
+  {
+    "id": "integrity-14",
+    "category": "Integrity",
+    "text": "Respect a confidence even when sharing it would win attention."
+  },
+  {
+    "id": "integrity-15",
+    "category": "Integrity",
+    "text": "Make the correction as easy to find as the mistake."
+  },
+  {
+    "id": "integrity-16",
+    "category": "Integrity",
+    "text": "Keep your account of an event fair to absent people."
+  },
+  {
+    "id": "integrity-17",
+    "category": "Integrity",
+    "text": "Choose the wording that informs instead of the wording that hides."
+  },
+  {
+    "id": "integrity-18",
+    "category": "Integrity",
+    "text": "A missed promise deserves an honest update, not silence."
+  },
+  {
+    "id": "integrity-19",
+    "category": "Integrity",
+    "text": "Check whether your reasons match the reasons you give others."
+  },
+  {
+    "id": "integrity-20",
+    "category": "Integrity",
+    "text": "Let fairness reach the person who cannot offer you anything."
+  },
+  {
+    "id": "integrity-21",
+    "category": "Integrity",
+    "text": "Do not make kindness depend on someone's usefulness to you."
+  },
+  {
+    "id": "integrity-22",
+    "category": "Integrity",
+    "text": "Credit the source when another person's work helps yours."
+  },
+  {
+    "id": "integrity-23",
+    "category": "Integrity",
+    "text": "An honest limit is better than a promise you cannot keep."
+  },
+  {
+    "id": "integrity-24",
+    "category": "Integrity",
+    "text": "Use your influence in ways you could explain openly."
+  },
+  {
+    "id": "integrity-25",
+    "category": "Integrity",
+    "text": "Pause when winning asks you to ignore what you know."
+  },
+  {
+    "id": "integrity-26",
+    "category": "Integrity",
+    "text": "Treat another person's belongings as carefully as your own."
+  },
+  {
+    "id": "integrity-27",
+    "category": "Integrity",
+    "text": "Give an answer you will not need to disguise later."
+  },
+  {
+    "id": "integrity-28",
+    "category": "Integrity",
+    "text": "Admit what you do not know before someone relies on it."
+  },
+  {
+    "id": "integrity-29",
+    "category": "Integrity",
+    "text": "Leave a clear record for the person who comes next."
+  },
+  {
+    "id": "integrity-30",
+    "category": "Integrity",
+    "text": "Your values become visible in the choices that cost convenience."
+  },
+  {
+    "id": "loyalty-01",
+    "category": "Loyalty",
+    "text": "Stand beside a friend without standing against their right to change."
+  },
+  {
+    "id": "loyalty-02",
+    "category": "Loyalty",
+    "text": "Loyalty can carry a hard truth with a gentle voice."
+  },
+  {
+    "id": "loyalty-03",
+    "category": "Loyalty",
+    "text": "Keep a confidence without agreeing to hide ongoing harm."
+  },
+  {
+    "id": "loyalty-04",
+    "category": "Loyalty",
+    "text": "A lasting friendship makes room for a healthy boundary."
+  },
+  {
+    "id": "loyalty-05",
+    "category": "Loyalty",
+    "text": "Show up in ways the other person actually welcomes."
+  },
+  {
+    "id": "loyalty-06",
+    "category": "Loyalty",
+    "text": "You can care deeply and still refuse a harmful request."
+  },
+  {
+    "id": "loyalty-07",
+    "category": "Loyalty",
+    "text": "Let your support leave another person's choices intact."
+  },
+  {
+    "id": "loyalty-08",
+    "category": "Loyalty",
+    "text": "Remember the friend whose difficult week continued after everyone left."
+  },
+  {
+    "id": "loyalty-09",
+    "category": "Loyalty",
+    "text": "Be dependable without making yourself permanently available to everyone."
+  },
+  {
+    "id": "loyalty-10",
+    "category": "Loyalty",
+    "text": "A shared past does not cancel the need for present respect."
+  },
+  {
+    "id": "loyalty-11",
+    "category": "Loyalty",
+    "text": "Choose relationships where care can travel in both directions."
+  },
+  {
+    "id": "loyalty-12",
+    "category": "Loyalty",
+    "text": "Ask before turning someone's private struggle into a public story."
+  },
+  {
+    "id": "loyalty-13",
+    "category": "Loyalty",
+    "text": "A loyal answer may be the one that prevents harm."
+  },
+  {
+    "id": "loyalty-14",
+    "category": "Loyalty",
+    "text": "Keep checking whether your help still feels like help."
+  },
+  {
+    "id": "loyalty-15",
+    "category": "Loyalty",
+    "text": "Distance can protect care when closeness has become unsafe."
+  },
+  {
+    "id": "loyalty-16",
+    "category": "Loyalty",
+    "text": "Be steady in kindness without becoming fixed in agreement."
+  },
+  {
+    "id": "loyalty-17",
+    "category": "Loyalty",
+    "text": "A friendship can grow around different plans for the future."
+  },
+  {
+    "id": "loyalty-18",
+    "category": "Loyalty",
+    "text": "Speak fairly about people who have trusted you."
+  },
+  {
+    "id": "loyalty-19",
+    "category": "Loyalty",
+    "text": "Let a friend's success change the celebration, not your affection."
+  },
+  {
+    "id": "loyalty-20",
+    "category": "Loyalty",
+    "text": "Offer support without collecting a future debt of obedience."
+  },
+  {
+    "id": "loyalty-21",
+    "category": "Loyalty",
+    "text": "You can honor old memories without reopening a harmful door."
+  },
+  {
+    "id": "loyalty-22",
+    "category": "Loyalty",
+    "text": "Stay curious about the person your friend is becoming."
+  },
+  {
+    "id": "loyalty-23",
+    "category": "Loyalty",
+    "text": "Make room for an honest disagreement inside your friendship."
+  },
+  {
+    "id": "loyalty-24",
+    "category": "Loyalty",
+    "text": "A trusted bond should make asking for space feel possible."
+  },
+  {
+    "id": "loyalty-25",
+    "category": "Loyalty",
+    "text": "Remember to invite the person who rarely asks to join."
+  },
+  {
+    "id": "loyalty-26",
+    "category": "Loyalty",
+    "text": "Keep your word, and speak early when circumstances change."
+  },
+  {
+    "id": "loyalty-27",
+    "category": "Loyalty",
+    "text": "Stand up for someone's dignity without speaking over them."
+  },
+  {
+    "id": "loyalty-28",
+    "category": "Loyalty",
+    "text": "Loyalty should not ask anyone to surrender their safety."
+  },
+  {
+    "id": "loyalty-29",
+    "category": "Loyalty",
+    "text": "Care for the relationship without trying to own its people."
+  },
+  {
+    "id": "loyalty-30",
+    "category": "Loyalty",
+    "text": "A reliable friend can welcome both your presence and your independence."
+  },
+  {
+    "id": "gratitude-01",
+    "category": "Gratitude",
+    "text": "Notice the hands that helped an ordinary day run smoothly."
+  },
+  {
+    "id": "gratitude-02",
+    "category": "Gratitude",
+    "text": "Thank someone for the detail they thought no one noticed."
+  },
+  {
+    "id": "gratitude-03",
+    "category": "Gratitude",
+    "text": "A working lamp can make a long evening easier."
+  },
+  {
+    "id": "gratitude-04",
+    "category": "Gratitude",
+    "text": "Let a warm meal receive a moment of your attention."
+  },
+  {
+    "id": "gratitude-05",
+    "category": "Gratitude",
+    "text": "Appreciate the small repair that gave something another useful year."
+  },
+  {
+    "id": "gratitude-06",
+    "category": "Gratitude",
+    "text": "Remember the person who made a confusing task feel possible."
+  },
+  {
+    "id": "gratitude-07",
+    "category": "Gratitude",
+    "text": "A familiar path can still offer a new reason to look."
+  },
+  {
+    "id": "gratitude-08",
+    "category": "Gratitude",
+    "text": "Notice the comfort of a door that opens to welcome you."
+  },
+  {
+    "id": "gratitude-09",
+    "category": "Gratitude",
+    "text": "Give a quiet thank you to the effort behind your ease."
+  },
+  {
+    "id": "gratitude-10",
+    "category": "Gratitude",
+    "text": "An ordinary afternoon may contain something you once hoped for."
+  },
+  {
+    "id": "gratitude-11",
+    "category": "Gratitude",
+    "text": "Appreciate a clear answer, especially when the question was difficult."
+  },
+  {
+    "id": "gratitude-12",
+    "category": "Gratitude",
+    "text": "There is care in the work that leaves no mess behind."
+  },
+  {
+    "id": "gratitude-13",
+    "category": "Gratitude",
+    "text": "Notice who brings patience into a crowded room."
+  },
+  {
+    "id": "gratitude-14",
+    "category": "Gratitude",
+    "text": "A shared joke can be one good part of a hard day."
+  },
+  {
+    "id": "gratitude-15",
+    "category": "Gratitude",
+    "text": "Thank the person who explained without making you feel small."
+  },
+  {
+    "id": "gratitude-16",
+    "category": "Gratitude",
+    "text": "Let a simple pleasure be complete without making it impressive."
+  },
+  {
+    "id": "gratitude-17",
+    "category": "Gratitude",
+    "text": "Remember the useful things that arrived through someone else's effort."
+  },
+  {
+    "id": "gratitude-18",
+    "category": "Gratitude",
+    "text": "Appreciate the hour that gave you time to think."
+  },
+  {
+    "id": "gratitude-19",
+    "category": "Gratitude",
+    "text": "A comfortable seat is a small kindness to a tired body."
+  },
+  {
+    "id": "gratitude-20",
+    "category": "Gratitude",
+    "text": "Notice the friend who remembers how you take your tea."
+  },
+  {
+    "id": "gratitude-21",
+    "category": "Gratitude",
+    "text": "Give thanks without asking a difficult day to become a good one."
+  },
+  {
+    "id": "gratitude-22",
+    "category": "Gratitude",
+    "text": "A helpful message can deserve more than a quick glance."
+  },
+  {
+    "id": "gratitude-23",
+    "category": "Gratitude",
+    "text": "Let appreciation reach the people who maintain what you use."
+  },
+  {
+    "id": "gratitude-24",
+    "category": "Gratitude",
+    "text": "There is something generous about an invitation with no pressure."
+  },
+  {
+    "id": "gratitude-25",
+    "category": "Gratitude",
+    "text": "Notice the space someone made for your honest answer."
+  },
+  {
+    "id": "gratitude-26",
+    "category": "Gratitude",
+    "text": "Thank yourself for one careful choice you made today."
+  },
+  {
+    "id": "gratitude-27",
+    "category": "Gratitude",
+    "text": "Appreciate a little quiet without demanding a perfect silence."
+  },
+  {
+    "id": "gratitude-28",
+    "category": "Gratitude",
+    "text": "A familiar voice can make a distant place feel closer."
+  },
+  {
+    "id": "gratitude-29",
+    "category": "Gratitude",
+    "text": "Look for one useful kindness before the day closes."
+  },
+  {
+    "id": "gratitude-30",
+    "category": "Gratitude",
+    "text": "Let your thanks be specific enough for someone to recognize their gift."
+  }
+]

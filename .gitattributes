@@ -1,0 +1,2 @@
+# Preserve image source bytes and their documented hashes on every platform.
+app/icons/* -text

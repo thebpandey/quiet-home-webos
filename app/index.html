@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' file:; style-src 'self' file:; img-src 'self' file:; font-src 'self' file:; connect-src 'self' file: https://api.open-meteo.com https://air-quality-api.open-meteo.com https://geocoding-api.open-meteo.com; frame-src 'none'; child-src 'none'; worker-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Quiet Home</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="core.js" defer></script>
+  <script src="platform.js" defer></script>
+  <script src="ambient.js" defer></script>
+  <script src="weather.js" defer></script>
+  <script src="weather-view.js" defer></script>
+  <script src="quotes.js" defer></script>
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <div id="landscape" class="landscape" aria-hidden="true"></div>
+  <main>
+    <header>
+      <div class="clock" aria-label="Current date and time in Central Time">
+        <p id="time" class="time">--:--</p>
+        <p id="date" class="date"></p>
+        <p class="zone">Central Time</p>
+      </div>
+      <div class="identity">
+        <h1 id="title" hidden>Home</h1>
+        <section class="weather" aria-label="Local weather" aria-live="polite">
+          <p id="weather-location">Set location in Settings</p>
+          <div class="weather-current"><img id="weather-icon" class="weather-icon" alt="" hidden><p id="weather-temperature" class="weather-temperature"></p></div>
+          <p id="weather-condition" class="weather-reading"></p>
+          <p id="weather-air" class="weather-reading"></p>
+          <p id="weather-particles" class="weather-reading"></p>
+        </section>
+        <p id="preview" class="preview" hidden>Browser preview — TV actions are simulated</p>
+      </div>
+    </header>
+    <section class="quote-region" aria-label="Inspiration">
+      <p id="quote-text" class="quote-text" hidden></p>
+      <p id="quote-error" class="quote-error" hidden></p>
+    </section>
+    <section class="dock" aria-label="Home launcher">
+      <div class="scene">
+        <p id="scene-title" class="scene-title">A quiet place to begin.</p>
+        <p id="scene-location" class="scene-location">Choose an app or input.</p>
+      </div>
+      <div id="tiles" class="tiles" role="group" aria-label="Apps and inputs"></div>
+      <div class="messages">
+        <p id="status" class="status" role="status" aria-live="polite">Loading tiles…</p>
+        <p id="error" class="error" role="alert" hidden></p>
+        <p id="ambient-error" class="ambient-error" role="status" hidden></p>
+      </div>
+    </section>
+    <noscript>JavaScript is required to load the apps and inputs.</noscript>
+    <div id="apps-overlay" class="settings-overlay" hidden>
+      <section class="settings-dialog apps-dialog" role="dialog" aria-modal="true" aria-labelledby="apps-title">
+        <h2 id="apps-title">Installed apps</h2>
+        <p id="apps-message" role="status"></p>
+        <div id="apps-list" class="apps-list"></div>
+        <button id="apps-retry" type="button" hidden>Retry</button>
+        <button id="apps-close" type="button">Close</button>
+      </section>
+    </div>
+    <div id="settings-overlay" class="settings-overlay" hidden>
+      <section class="settings-dialog" role="dialog" aria-modal="true" aria-labelledby="settings-title">
+        <h2 id="settings-title">Settings</h2>
+        <label for="weather-zip">Weather ZIP code</label>
+        <input id="weather-zip" type="text" inputmode="numeric" maxlength="5" autocomplete="postal-code">
+        <p id="settings-message" role="status" aria-live="polite"></p>
+        <div class="weather-details" aria-label="Weather details">
+          <p id="weather-times"></p>
+          <p id="weather-source">Modeled data: Open-Meteo / CAMS</p>
+        </div>
+        <button id="settings-save" type="button">Save</button>
+        <button id="settings-cancel" type="button">Cancel</button>
+        <button id="settings-tv" type="button">TV settings</button>
+      </section>
+    </div>
+  </main>
+</body>
+</html>

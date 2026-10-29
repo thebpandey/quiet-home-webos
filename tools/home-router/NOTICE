@@ -1,0 +1,16 @@
+Quiet Home private router: first 65-inch TV candidate, disabled by default.
+
+Reused native assets: LG InputHook v1.5.1, repository pin
+d3fa0818fc141a7b10bfcdaec3e615afd7e63bf9, official IPK SHA256
+604d556a932ec60cee1f041b144aa03d3b49043212568d4cc5bd5854c7ac88ec.
+Native source reference: sundermann/inputhookpp 1.0,
+9dc3cf140cb1ae1dbe059525c72710deea7ecf7d (GPL-3.0).
+InputHook wrapper: Simon34545/lginputhook (BSD-3-Clause).
+Injector framework reference: smx-smx/ezinject,
+d9338952cd01597c5fdd7d6e98991474df5dc89c (see COPYING).
+The framework reference is not a proven build pin for the packaged injector.
+The packaged library includes linked dependencies. This bundle is for private
+device testing. A redistribution license/source-compliance audit is not done.
+No reproducible build or instruction-level proof links all native bytes to
+the source reference. Native artifacts must never execute on the build PC.
+No InputHook app, Node service, UI, or TCP 1842 listener is included.

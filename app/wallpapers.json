@@ -1,0 +1,146 @@
+[
+  {
+    "id": "01-dolomites",
+    "title": "Alpine dawn",
+    "location": "Dolomites, Italy",
+    "src": "wallpapers/01-dolomites.jpg"
+  },
+  {
+    "id": "02-fjord",
+    "title": "Fjord at blue hour",
+    "location": "Lofoten, Norway",
+    "src": "wallpapers/02-fjord.jpg"
+  },
+  {
+    "id": "03-bamboo",
+    "title": "A path through green",
+    "location": "Kyoto, Japan",
+    "src": "wallpapers/03-bamboo.jpg"
+  },
+  {
+    "id": "04-iceland",
+    "title": "Atlantic hush",
+    "location": "South coast, Iceland",
+    "src": "wallpapers/04-iceland.jpg"
+  },
+  {
+    "id": "05-patagonia",
+    "title": "Beyond the lake",
+    "location": "Patagonia, Chile",
+    "src": "wallpapers/05-patagonia.jpg"
+  },
+  {
+    "id": "06-alpine-meadow",
+    "title": "A summer above the clouds",
+    "location": "Swiss Alps, Switzerland",
+    "src": "wallpapers/06-alpine-meadow.jpg"
+  },
+  {
+    "id": "07-namib",
+    "title": "The quiet dunes",
+    "location": "Namib Desert, Namibia",
+    "src": "wallpapers/07-namib.jpg"
+  },
+  {
+    "id": "08-milford",
+    "title": "The hidden sound",
+    "location": "Fiordland, New Zealand",
+    "src": "wallpapers/08-milford.jpg"
+  },
+  {
+    "id": "09-amalfi",
+    "title": "Terraces above the sea",
+    "location": "Amalfi Coast, Italy",
+    "src": "wallpapers/09-amalfi.jpg"
+  },
+  {
+    "id": "10-rockies",
+    "title": "Water like a jewel",
+    "location": "Canadian Rockies, Canada",
+    "src": "wallpapers/10-rockies.jpg"
+  },
+  {
+    "id": "11-sonoran",
+    "title": "Desert afterglow",
+    "location": "Sonoran Desert, Arizona",
+    "src": "wallpapers/11-sonoran.jpg"
+  },
+  {
+    "id": "12-skye",
+    "title": "The old green hills",
+    "location": "Isle of Skye, Scotland",
+    "src": "wallpapers/12-skye.jpg"
+  },
+  {
+    "id": "13-bali",
+    "title": "Terraces in the mist",
+    "location": "Bali, Indonesia",
+    "src": "wallpapers/13-bali.jpg"
+  },
+  {
+    "id": "14-faroe",
+    "title": "Where the cliffs meet clouds",
+    "location": "Faroe Islands",
+    "src": "wallpapers/14-faroe.jpg"
+  },
+  {
+    "id": "15-cyclades",
+    "title": "Islands in the blue",
+    "location": "Cyclades, Greece",
+    "src": "wallpapers/15-cyclades.jpg"
+  },
+  {
+    "id": "16-oregon",
+    "title": "Pacific evening",
+    "location": "Oregon Coast, USA",
+    "src": "wallpapers/16-oregon.jpg"
+  },
+  {
+    "id": "17-fuji",
+    "title": "Petals on the lake",
+    "location": "Fuji Five Lakes, Japan",
+    "src": "wallpapers/17-fuji.jpg"
+  },
+  {
+    "id": "18-atlas",
+    "title": "Terracotta mountain dusk",
+    "location": "Atlas Mountains, Morocco",
+    "src": "wallpapers/18-atlas.jpg"
+  },
+  {
+    "id": "19-bled",
+    "title": "Island in the mist",
+    "location": "Lake Bled, Slovenia",
+    "src": "wallpapers/19-bled.jpg"
+  },
+  {
+    "id": "20-bhutan",
+    "title": "Valley of pines",
+    "location": "Paro Valley, Bhutan",
+    "src": "wallpapers/20-bhutan.jpg"
+  },
+  {
+    "id": "21-tuscany",
+    "title": "Golden rolling hills",
+    "location": "Val d'Orcia, Tuscany, Italy",
+    "src": "wallpapers/21-tuscany.jpg"
+  },
+  {
+    "id": "22-lapland",
+    "title": "Northern lights over pines",
+    "location": "Lapland, Finland",
+    "src": "wallpapers/22-lapland.jpg"
+  },
+  {
+    "id": "23-great-ocean-road",
+    "title": "Southern ocean light",
+    "location": "Great Ocean Road, Victoria, Australia",
+    "src": "wallpapers/23-great-ocean-road.jpg"
+  },
+  {
+    "id": "24-kauai",
+    "title": "Emerald coastal ridges",
+    "location": "Na Pali Coast, Kauai, Hawaii",
+    "src": "wallpapers/24-kauai.jpg"
+  }
+]

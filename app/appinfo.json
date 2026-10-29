@@ -1,0 +1,10 @@
+{
+  "id": "com.local.quietlauncher",
+  "version": "0.2.10",
+  "vendor": "Local",
+  "type": "web",
+  "main": "index.html",
+  "title": "Quiet Home",
+  "icon": "icon.png",
+  "disableBackHistoryAPI": true
+}
