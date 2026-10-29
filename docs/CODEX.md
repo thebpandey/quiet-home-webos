@@ -1,4 +1,4 @@
-﻿# Use Codex
+# Use Codex
 
 Codex can inspect this project, propose changes, run local checks, and help plan a device test. Follow the [official Codex guide](https://developers.openai.com/codex/) to install and sign in. In a terminal at the repository root, start an interactive session:
 
@@ -19,3 +19,11 @@ Make the smallest needed local changes, run the relevant tests and package check
 ```
 
 For device setup, use [installation](INSTALL.md). For root eligibility, check the exact model and firmware with [Can I Root My TV?](https://cani.rootmy.tv/) and [webOS Homebrew](https://www.webosbrew.org/rooting/). A webOS SDK or runtime version alone does not establish eligibility.
+
+## Optional TV settings and DNS
+
+For optional work, read [NextDNS](NEXTDNS.md) and [TV customization](TV-CUSTOMIZATION.md). You can add this to the prompt above:
+
+```text
+Help me inspect the options supported by my own TV. Keep a private baseline and explain a reversible plan before any DNS, app, privacy, screensaver, voice, or system change. Ask for my choice of each change and keep credentials and profile details in local prompts, not chat. Change only this TV's DNS if I choose NextDNS; preserve its other network settings. Do not remove apps, enable root, run exploits, or change system policies without my separate approval and a verified recovery path. Stop when support or the result cannot be proved.
+```
