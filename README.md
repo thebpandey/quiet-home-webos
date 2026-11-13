@@ -32,3 +32,7 @@ For TV installation, first read [installation](docs/INSTALL.md). Root is **not**
 - [Optional TV customization](docs/TV-CUSTOMIZATION.md)
 
 The default `app/tiles.json` is an example, not an inventory of your TV. App availability, IDs and inputs can differ. Read the TV inventory and choose your apps and input before you install or change anything on the TV.
+
+---
+
+Built by [Bhaskar Pandey](https://www.bhaskarpandey.com).
